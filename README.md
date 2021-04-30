@@ -1,1 +1,3 @@
 # Image-Denoising
+
+L’acquisition  d’une  image  numérique  est  le  plus  souvent  accompagnée  del’apparition de bruit, souvent dû à une imperfection au niveau de la détection, de latransmission ou de la compression du signal, ou encore à des défauts inhérents àl’environnement comme la présence d’éclairage insuffisant ou trop prononcé. Lasuppression de ce bruit est un enjeu primordial dans plusieurs domaines industrielset la recherche d’algorithmes efficaces demeure un défi persistant à la croisée deplusieurs domaines scientifiques : analyse fonctionelle, probabilités, statistiques etsciences physiques. Dans cette étude, nous implémentons différents algorithmesde restitution d’une image en niveaux de gris bruitée selon un bruit gaussien.
